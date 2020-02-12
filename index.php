@@ -40,7 +40,7 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
                         ?>
                         </div>
 
-                        <div id="footer">
+                  <div style="background-color:lightblue"> <div id="footer"> </div>
                         <div class="index"><div style="background-color:lightblue"> <div class="font-title"> RELAX AND LIVE A LITTLE! </div></div></div>
                         </div>
     </div>
