@@ -39,7 +39,7 @@ body {
     min-height: 768px;
     height: auto;
     margin: 0 auto;
-    background-color: #6699ff;
+    background-color: linear-gradient(to bottom, #6699ff 0%, #ccffcc 100%);
  }
  .index {
     margin-bottom: 20px;
