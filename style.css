@@ -9,12 +9,12 @@ a{
 }
 /* unvisited link */
 a:link {
-    color: green;
+    color: white;
   }
 
   /* visited link */
   a:visited {
-    color: darkgreen;
+    color: red;
   }
 
   /* mouse over link */
@@ -24,10 +24,10 @@ a:link {
 
   /* selected link */
   a:active {
-    color: green;
+    color: white;
   }
 .article-content a{
-    color: lightgreen;
+    color: white;
 }
 body {
     background-color: #595959;
