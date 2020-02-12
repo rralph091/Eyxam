@@ -48,7 +48,6 @@ body {
     color: #000000;
     font-family: 'Roboto Slab', serif;
     font-size: 45px;
-    font-color: #ff0000;
 }
 
 .contactUS {
@@ -60,7 +59,7 @@ body {
 }
 .font-title {
     display: inline;
-    color: #F4F5F5;
+    color: #ff0000;
     font-family: 'Roboto', sans-serif;
     font-size: 60px;
     text-align: center;
