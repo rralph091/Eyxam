@@ -39,19 +39,19 @@ body {
     min-height: 768px;
     height: auto;
     margin: 0 auto;
-    background-color: #08782f;
+    background-color: ##6699ff;
  }
  .index {
     margin-bottom: 20px;
     text-align: center;
-    color: #F4F5F5;
+    color: ##ccffcc;
     font-family: 'Roboto Slab', serif;
     font-size: 45px;
 }
 
 .contactUS {
    margin-bottom: 20px;
-   color: #F4F5F5;
+   color: #ccffcc;
    font-family: 'Roboto Slab', serif;
    font-size: 45px;
    display: inline-block;
