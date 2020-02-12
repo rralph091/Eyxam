@@ -24,10 +24,10 @@ a:link {
 
   /* selected link */
   a:active {
-    color: white;
+    color: red;
   }
 .article-content a{
-    color: white;
+    color: red;
 }
 body {
     background-color: #33cc33;
