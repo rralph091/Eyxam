@@ -9,7 +9,7 @@ a{
 }
 /* unvisited link */
 a:link {
-    color: white;
+    color: red;
   }
 
   /* visited link */
@@ -30,7 +30,7 @@ a:link {
     color: white;
 }
 body {
-    background-color: #595959;
+    background-color: linear-gradient(to bottom, #33cc33 0%, #99ff99 100%;
 }
 
 .wrapper{
