@@ -44,7 +44,7 @@ body {
  .index {
     margin-bottom: 20px;
     text-align: center;
-    color: #94ccf5;
+    color: #000000;
     font-family: 'Roboto Slab', serif;
     font-size: 45px;
 }
@@ -138,7 +138,7 @@ body {
     font-family: 'Roboto Slab', serif;
 }
 .article-description {
-    color: #fa8a6e;
+    color: #F5EBE9;
     padding-top: 15px;
     font-family: 'Roboto Slab', serif;
     font-size: 20px;
