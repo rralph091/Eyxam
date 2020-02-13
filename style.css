@@ -115,13 +115,6 @@ h4 {
     text-align: left;
     display: inline-block;
 }
-.partner-image{
-    width: 600px;
-    height: 300px;
-    object-fit: contain;
-    box-shadow: 10px 10px 5px black;
-    margin-left: 370px;
-}
 #footer {
     margin-top: 50px;
     width: 100%;
