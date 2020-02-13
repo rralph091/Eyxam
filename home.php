@@ -3,7 +3,7 @@
    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
    <body>
 <div class="card">
-      <h2>ENTERTAINMENT HISTORY</h2>
+      <h2>HISTORY</h2>
       <h4>The "ancient craft of communicating events and experiences, using words, images, sounds and gestures" by telling a story 
          is not only the means by which people passed on their cultural values and traditions and history from one generation to another, 
          it has been an important part of most forms of entertainment ever since the earliest times. Stories are still told in the early forms, 
