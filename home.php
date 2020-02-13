@@ -16,7 +16,8 @@
          Others maintain that pole vaulting was used in warfare to vault over fortress walls during battle."The equipment for such sports has become increasingly sophisticated. 
          Vaulting poles, for example, were originally made from woods such as ash, hickory or hazel; in the 19th century bamboo was used and in the 21st century poles can be made of carbon fibre. 
          Other activities, such as walking on stilts, are still seen in circus performances in the 21st century. Gladiatorial combats, also known as "gladiatorial games", popular during Roman times, 
-         provide a good example of an activity that is a combination of sport, punishment, and entertainment.</p>
+         provide a good example of an activity that is a combination of sport, punishment, and entertainment.
+      </p>
     </div>
     </body>
 </html>
