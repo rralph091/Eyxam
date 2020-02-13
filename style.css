@@ -39,11 +39,12 @@ h2 {
   text-align: center;
 }
 h4 {
+  color: white;
   text-align: left;
-  font-size: 15px;
+  font-size: 20px;
   text-align: left;
   display: inline-block;
-  background-color: #b5b0b0;
+  background-color: black;
   border-bottom: 1px solid #333333;
   border-left: 1px solid #333333;
   border-right: 1px solid #333333;
