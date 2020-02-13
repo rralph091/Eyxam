@@ -25,7 +25,7 @@ foreach( $content as $data )
     </head>
     <body>
                   <div class="whole-article">
-                    <div class="arttitle"> <u><?php echo $title;?></u></div>
+                    <div class="article-title"> <u><?php echo $title;?></u></div>
                                 <ul class="article-content">
                                   <li> <b> Link: </b> <br><a href="<?php echo $link;?>" target="blank"> <?php echo $link;?>  </a> </li>
                                   <li> <b> Published Date: </b><br> <?php echo $pubDate ?></li>
