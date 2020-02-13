@@ -130,7 +130,6 @@ h2 {
 .article-content{
   margin-top: -0.5px;
     column-count: 2;
-    column-rule: 1px solid Blue;
     border-bottom: 1px solid #333333;
     border-left: 1px solid #333333;
     border-right: 1px solid #333333;
