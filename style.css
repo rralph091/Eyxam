@@ -27,7 +27,7 @@ a:link {
   a:active {
     color: red;
   }
-.article-content a{
+.artcontent a{
     color: red;
 }
 body {
@@ -112,7 +112,7 @@ body {
     height: 100px;
     background-color: lightblue;
 }
-.article-title {
+.arttitle {
     padding-left: 20px;
     padding-bottom: 10px;
     background-color: #d2fefe;
@@ -123,7 +123,7 @@ body {
     text-align: left;
 }
 
-.article-content{
+.artcontent{
   margin-top: -0.5px;
     column-count: 2;
     column-rule: 1px solid Blue;
@@ -133,19 +133,19 @@ body {
     background-color: #333333;
     text-align: left;
 }
-.article-content li{
+.artcontent li{
     list-style-type: none;
     color: #F4F5F5;
     font-family: 'Roboto Slab', serif;
 }
-.article-description {
+.artdescription {
     color: #F5EBE9;
     padding-top: 15px;
     font-family: 'Roboto Slab', serif;
     font-size: 20px;
     text-align: left;
 }
-.whole-article{
+.wholeart{
   border: 1px solid #333333;
   margin-bottom: 50px;
   background-color: #333333;
