@@ -100,14 +100,6 @@ h4 {
       font-size: 30px;
       border-right: 1px solid #bbb;
   }
-  .nav-menu li a {
-      display: block;
-  color: white;
-  text-align: left;
-  padding: 14px 16px;
-  text-decoration: none;
-   
-}
 .header {
     color: #33cc33;
     padding-top: 15px;
