@@ -4,7 +4,7 @@
    <body>
 <div class="card">
       <h2>ENTERTAINMENT HISTORY</h2>
-      <p>The "ancient craft of communicating events and experiences, using words, images, sounds and gestures" by telling a story 
+      <h4>The "ancient craft of communicating events and experiences, using words, images, sounds and gestures" by telling a story 
          is not only the means by which people passed on their cultural values and traditions and history from one generation to another, 
          it has been an important part of most forms of entertainment ever since the earliest times. Stories are still told in the early forms, 
          for example, around a fire while camping, or when listening to the stories of another culture as a tourist. 
@@ -17,7 +17,7 @@
          Vaulting poles, for example, were originally made from woods such as ash, hickory or hazel; in the 19th century bamboo was used and in the 21st century poles can be made of carbon fibre. 
          Other activities, such as walking on stilts, are still seen in circus performances in the 21st century. Gladiatorial combats, also known as "gladiatorial games", popular during Roman times, 
          provide a good example of an activity that is a combination of sport, punishment, and entertainment.
-      </p>
+      </h4>
     </div>
     </body>
 </html>
