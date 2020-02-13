@@ -10,7 +10,7 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
     </head>
     <body>
                 <div class="wrapper">
-                        <div class="index"> <img src="img/logo.png" alt="" style="width:600px;height:300px;">ENTERTAINMENT </div>
+                        <div class="index">ENTERTAINMENT </div>
                         <div class="nav">
                           <ul class="nav-menu">
                             <li> <a href="index.php?navigation=home"> HOME </a> </li>
