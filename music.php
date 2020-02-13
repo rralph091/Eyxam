@@ -23,15 +23,15 @@ foreach( $content as $data )
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     </head>
     <body>
-                  <div class="wholeart">
-                    <div class="arttitle"> <u><?php echo $title;?></u></div>
-                                <ul class="artcontent">
+                  <div class="whole-article">
+                    <div class="article-title"> <u><?php echo $title;?></u></div>
+                                <ul class="article-content">
                                   <li> <b> Link: </b> <br><a href="<?php echo $link;?>" target="blank"> <?php echo $link;?>  </a> </li>
                                  
                                 </li>
                                 </ul>
                                 <hr>
-                                <div class="artdescription"> <?php echo $description; ?> </div> <br/>
+                                <div class="article-description"> <?php echo $description; ?> </div> <br/>
                             </li>
                 </div>
   <?php
