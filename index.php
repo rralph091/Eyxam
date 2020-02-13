@@ -17,10 +17,13 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
                             <li> <a href="index.php?navigation=Games"> GAMES </a> </li>
                             <li> <a href="index.php?navigation=Music"> MUSIC  </a> </li>
                             <li> <a href="index.php?navigation=tvshows"> TV SHOWS </a> </li>
+                     <h2>DEFENSE OF THE ANCIENTS (DOTA)</h2>
+                <p></p>
+                <p></p>
+                </div>
                      
                           </ul>
                         </div>
-
                         <div class="content">
                         <?php
                         switch($navigation){           
