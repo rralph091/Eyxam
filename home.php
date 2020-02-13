@@ -1,6 +1,10 @@
+<?php
+    <html>
+    <head> <title> ENTERTAINMENT HISTORY</title>
+      </head>
+        <body>
 
-<html>
-    <head> 
-        <title> Games For You </title>
-    </head>
-</html>
+?>
+</body>
+    </html>
+        
