@@ -22,7 +22,6 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
                      
                           </ul>
                         </div>
-                  <h2> ENTERTAINMENT </h2>
                         <div class="content">
                         <?php
                         switch($navigation){           
