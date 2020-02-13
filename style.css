@@ -37,6 +37,9 @@ body {
 h2 {
   text-align: center;
 }
+p {
+  text-align: left;
+}
 
 .wrapper{
     padding: 50px 50px 50px 50px;
