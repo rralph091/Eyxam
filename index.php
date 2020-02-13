@@ -18,12 +18,7 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
                             <li> <a href="index.php?navigation=Music"> MUSIC  </a> </li>
                             <li> <a href="index.php?navigation=tvshows"> TV SHOWS </a> </li>
                             
-                            
-               <div class="HOME" style="display:none">       
-                <h2>HOME(DOTA)</h2>
-                <p></p>
-                <p></p>
-                </div>
+                         
                      
                           </ul>
                         </div>
