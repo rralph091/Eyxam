@@ -24,9 +24,9 @@ foreach( $content as $data )
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     </head>
     <body>
-                  <div class="whole-article">
-                    <div class="article-title"> <u><?php echo $title;?></u></div>
-                                <ul class="article-content">
+                  <div class="wholeart">
+                    <div class="arttitle"> <u><?php echo $title;?></u></div>
+                                <ul class="artcontent">
                                   <li> <b> Link: </b> <br><a href="<?php echo $link;?>" target="blank"> <?php echo $link;?>  </a> </li>
                                   <li> <b> Published Date: </b><br> <?php echo $pubDate ?></li>
                                   <li> <b> Category: </b> <br><?php echo $category; ?></li>
@@ -34,7 +34,7 @@ foreach( $content as $data )
                                 </li>
                                 </ul>
                                 <hr>
-                                <div class="article-description"> <?php echo $description; ?> </div> <br/>
+                                <div class="artdescription"> <?php echo $description; ?> </div> <br/>
                             </li>
                 </div>
   <?php
